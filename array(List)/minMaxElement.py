@@ -4,4 +4,5 @@ for i in range(0,size):
     x=int(input("enter elemenent"))
     list1.append(x)
 
-print(list1[::-1])
+print("min is ",min(list1))
+print("max is ",max(list1))
