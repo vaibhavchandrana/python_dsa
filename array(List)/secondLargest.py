@@ -14,6 +14,6 @@ def approach2(arr,size):
     return secondMax
 
 
-arr=[5,7,4,6,3,2,5]
+arr=[5,7,7,6,4,6,3,2,5]
 
 print("second Largest is ",approach2(arr,len(arr)))
